@@ -4,7 +4,7 @@
   "edtVersion": "",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
-  "defaultBranch": "storage_1c",
+  "defaultBranch": "main",
   "secrets": {
     "storagePath": "Path_Otus_Storage_ID",
     "storage": "DeployGit_id",
@@ -13,7 +13,7 @@
   },
   "stages": {
     "initSteps": true,
-    "sonarqube": true,
+    "sonarqube": false,
     "bdd": true,
     "syntaxCheck": true,
     "edtValidate": false,
@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "e:/1C/build/Demo83_otus/1Cv8.1CD",
+    "templateDBPath": "G:/Learning/otusArch/Jenkins/Bases/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {

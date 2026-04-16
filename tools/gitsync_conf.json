@@ -29,7 +29,7 @@
       "temp-dir": "",
       "v8version": "8.3.27.1936",
       "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+        "URL": "https://github.com/CrusadCoder/otus_JenkinsExample.git"
       }
     },
     {
@@ -40,7 +40,7 @@
         "temp-dir": "",
         "v8version": "8.3.27.1936",
         "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+          "URL": "https://github.com/CrusadCoder/otus_JenkinsExample.git"
         }
      }
   ]

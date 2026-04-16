@@ -24,7 +24,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "G:/Learning/otusArch/Jenkins/Storage",
+      "path": "G:/Learning/otusArch/Jenkins/Storage/",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.27.1936",
@@ -35,7 +35,7 @@
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "G:/Learning/otusArch/Jenkins/StorageYax",
+        "path": "G:/Learning/otusArch/Jenkins/StorageYax/",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
         "v8version": "8.3.27.1936",

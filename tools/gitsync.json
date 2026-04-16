@@ -3,7 +3,7 @@
   "agent": "gitsync",
   "v8Version": "8.3.27.1936",
   "defaultInfobase": {
-    "connectionString": "/F G:/Learning/otusArc/Jenkins/Bases/DemoUP_clear",
+    "connectionString": "/Fg:/Learning/otusArc/Jenkins/Bases/DemoUP_clear",
     "auth": ""
   },
   "stages": {

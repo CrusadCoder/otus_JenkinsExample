@@ -5,12 +5,15 @@
   "srcDir": "src/cf",
   "sourceFormat": "designer",
   "defaultBranch": "main",
-  "secrets": {
+ /* "secrets": {
     "storagePath": "Path_Otus_Storage_ID",
     "storage": "DeployGit_id",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
-  },
+  },*/
+  "storage": {
+  "uri": "G:/Learning/otusArch/Jenkins/Storage"
+}
   "stages": {
     "initSteps": true,
     "sonarqube": false,

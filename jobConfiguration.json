@@ -6,8 +6,8 @@
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
-    "storagePath": "Path_Otus_Storage_ID",
-    "storage": "DeployGit_id",
+    //"storagePath": "Path_Otus_Storage_ID",
+    // "storage": "DeployGit_id",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
@@ -40,7 +40,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromStorage",
+    "initMethod": "fromSource",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "G:/Learning/otusArch/Jenkins/Bases/DemoUP/1Cv8.1CD",

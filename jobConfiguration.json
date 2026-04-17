@@ -5,12 +5,14 @@
   "srcDir": "src/cf",
   "sourceFormat": "designer",
   "defaultBranch": "main",
-  "secrets": {
+  "STORAGE_PATH": "G:/Learning/otusArch/Jenkins/Storage",
+  "STORAGE_USER": "gitbot"
+  /*"secrets": {
     "storagePath": "Path_Otus_Storage_ID",
      "storage": "DeployGit_id",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
-  },
+  },*/
   "stages": {
     "initSteps": true,
     "sonarqube": false,
@@ -40,7 +42,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromSource",
+    "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "G:/Learning/otusArch/Jenkins/Bases/DemoUP/1Cv8.1CD",

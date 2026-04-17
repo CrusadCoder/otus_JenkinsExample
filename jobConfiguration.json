@@ -7,12 +7,6 @@
   "defaultBranch": "main",
   "STORAGE_PATH": "G:/Learning/otusArch/Jenkins/Storage",
   "STORAGE_USER": "gitbot",
-  /*"secrets": {
-    "storagePath": "Path_Otus_Storage_ID",
-     "storage": "DeployGit_id",
-    "telegramBotToken": "UNKNOWN_ID",
-    "telegramChatId": "UNKNOWN_ID"
-  },*/
   "stages": {
     "initSteps": true,
     "sonarqube": false,

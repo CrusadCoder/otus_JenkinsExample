@@ -1,7 +1,7 @@
 {
   "globals": {
-    "storage-user": "gitbot",
-    "storage-pwd": "powodU4",
+    "storage-user": "DeployGit",
+    "storage-pwd": "1234",
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
@@ -24,7 +24,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "G:/Learning/otusArch/Jenkins/Storage",
+      "path": "C:/Tools/Storage",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.27.1936",

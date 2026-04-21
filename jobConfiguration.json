@@ -40,7 +40,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromFiles",
+    "initMethod": "fromSource",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "C:/Tools/Bases/DemoUP/1Cv8.1CD",

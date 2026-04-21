@@ -35,7 +35,7 @@
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "G:/Learning/otusArch/Jenkins/StorageYax",
+        "path": "C:/Tools/StorageYax",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
         "v8version": "8.3.27.1936",

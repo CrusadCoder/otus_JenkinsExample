@@ -6,8 +6,8 @@
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
-    "storagePath": "Storage_ID",
-    "storage": "DeployGit",
+    "storagePath": "",//"Storage_ID",
+    "storage": "",//"DeployGit",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
@@ -40,7 +40,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "defaultBranchFromStorage",
+    "initMethod": "FromSource",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "C:/Tools/Bases/DemoUP/1Cv8.1CD",

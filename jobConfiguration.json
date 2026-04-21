@@ -7,7 +7,7 @@
   "defaultBranch": "main",
   "secrets": {
     "storagePath": "Storage_ID",
-     "storage": "Gitbot_id",
+    "storage": "Gitbot_id",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
@@ -40,7 +40,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromStorage",
+    "initMethod": "fromSource",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "G:/Learning/otusArch/Jenkins/Bases/DemoUP/1Cv8.1CD",
